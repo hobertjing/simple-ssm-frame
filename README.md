@@ -1,2 +1,2 @@
 # simple-ssm-framework
-simple framework for &lt;springMVC + spring + mybatis>
+simple frame for &lt;springMVC + spring + mybatis>
